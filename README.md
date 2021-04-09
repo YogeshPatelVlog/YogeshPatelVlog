@@ -1,10 +1,14 @@
-- 👋 Hi, I’m @YogeshPatelVlog
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+<!DOCTYPE html>
+<html lang="en">
+<head>
+      <title>Set Image In HTML</title>
+      <link rel="stylesheet" href="style.css">
+</head>
+<body>
+      <img class="image"src="">
+</body>
+</html>
+   
 
-<!---
-YogeshPatelVlog/YogeshPatelVlog is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+You can write src your image name
